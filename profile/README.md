@@ -8,5 +8,6 @@
 - [Nucleo / Advanced](https://iogs-lense-training.github.io/nucleo-advanced/)
 
 ## Python
+- [IHM / PyQt6](https://iogs-lense-training.github.io/python-pyqt-gui/)
 - [Interface / Python-Nucleo / GUI](https://iogs-lense-training.github.io/interface-acquisition-gui/)
 
